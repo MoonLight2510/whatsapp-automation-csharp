@@ -32,8 +32,4 @@ It demonstrates real-world automation logic using C# and desktop application dev
 
 ---
 
-## 📸 Preview
 
-> Add screenshots or GIF here showing the bot in action.
-
-Example:
