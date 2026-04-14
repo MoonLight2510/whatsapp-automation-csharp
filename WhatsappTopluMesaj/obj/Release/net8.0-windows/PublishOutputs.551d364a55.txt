@@ -1,0 +1,11 @@
+C:\Users\kurtm\Desktop\otomasyon\WhatsappTopluMesaj.exe
+C:\Users\kurtm\Desktop\otomasyon\WhatsappTopluMesaj.dll
+C:\Users\kurtm\Desktop\otomasyon\WhatsappTopluMesaj.deps.json
+C:\Users\kurtm\Desktop\otomasyon\WhatsappTopluMesaj.runtimeconfig.json
+C:\Users\kurtm\Desktop\otomasyon\WhatsappTopluMesaj.pdb
+C:\Users\kurtm\Desktop\otomasyon\SeleniumExtras.WaitHelpers.dll
+C:\Users\kurtm\Desktop\otomasyon\WebDriver.Support.dll
+C:\Users\kurtm\Desktop\otomasyon\WebDriver.dll
+C:\Users\kurtm\Desktop\otomasyon\runtimes\linux\native\selenium-manager
+C:\Users\kurtm\Desktop\otomasyon\runtimes\osx\native\selenium-manager
+C:\Users\kurtm\Desktop\otomasyon\runtimes\win\native\selenium-manager.exe

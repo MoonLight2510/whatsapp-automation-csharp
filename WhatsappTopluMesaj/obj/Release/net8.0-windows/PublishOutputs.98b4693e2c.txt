@@ -1,0 +1,11 @@
+C:\Users\kurtm\Downloads\WhatsappTopluMesaj.exe
+C:\Users\kurtm\Downloads\WhatsappTopluMesaj.dll
+C:\Users\kurtm\Downloads\WhatsappTopluMesaj.deps.json
+C:\Users\kurtm\Downloads\WhatsappTopluMesaj.runtimeconfig.json
+C:\Users\kurtm\Downloads\WhatsappTopluMesaj.pdb
+C:\Users\kurtm\Downloads\SeleniumExtras.WaitHelpers.dll
+C:\Users\kurtm\Downloads\WebDriver.Support.dll
+C:\Users\kurtm\Downloads\WebDriver.dll
+C:\Users\kurtm\Downloads\runtimes\linux\native\selenium-manager
+C:\Users\kurtm\Downloads\runtimes\osx\native\selenium-manager
+C:\Users\kurtm\Downloads\runtimes\win\native\selenium-manager.exe

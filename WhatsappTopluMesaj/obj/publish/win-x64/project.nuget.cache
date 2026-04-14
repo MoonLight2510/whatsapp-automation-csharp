@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqSRdlwPM/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kurtm\\source\\repos\\WhatsappTopluMesaj\\WhatsappTopluMesaj\\WhatsappTopluMesaj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kurtm\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\kurtm\\.nuget\\packages\\selenium.support\\4.43.0\\selenium.support.4.43.0.nupkg.sha512",
+    "C:\\Users\\kurtm\\.nuget\\packages\\selenium.webdriver\\4.43.0\\selenium.webdriver.4.43.0.nupkg.sha512"
+  ],
+  "logs": []
+}
