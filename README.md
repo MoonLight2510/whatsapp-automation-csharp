@@ -20,7 +20,7 @@ This project demonstrates automation techniques, process optimization, and UI in
 
 - C# (.NET Framework / .NET)
 - Windows Forms / Console Application (based on your project)
-- UI Automation / Selenium (if used, otherwise remove)
+- Selenium (if used, otherwise remove)
 - Git & GitHub
 
 ---
